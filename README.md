@@ -1,4 +1,4 @@
 --------------
 # layout: forward
-# target: https://elliotmonde.github.io/index.html
+# href="https://elliotmonde.github.io/index.html"
 --------------
